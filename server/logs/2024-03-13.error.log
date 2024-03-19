@@ -1,0 +1,7 @@
+2024-03-13T04:25:28.835Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-13T04:26:55.052Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-13T04:40:37.105Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-13T04:50:23.874Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2,6)' at line 3
+2024-03-13T04:54:30.773Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'product_id in (2,2,2,4,,2,6)' at line 3
+2024-03-13T08:27:10.638Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-13T08:29:12.866Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '2024-03-13T08:24:56.000Z' for column 'created_datetime' at row 1

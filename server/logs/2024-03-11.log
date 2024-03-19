@@ -1,0 +1,12 @@
+2024-03-11T05:26:24.501Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T05:55:42.681Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T06:26:15.723Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T06:59:52.053Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T07:21:37.583Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T07:34:13.872Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T08:02:17.319Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T08:06:48.865Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T08:07:31.993Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'supplier_name' in 'field list'
+2024-03-11T08:08:11.737Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T08:18:57.908Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-11T08:37:31.679Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.

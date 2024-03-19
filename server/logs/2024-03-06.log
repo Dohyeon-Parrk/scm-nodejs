@@ -1,0 +1,29 @@
+2024-03-06T06:44:17.034Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:16:18.691Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:33:49.609Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:42:19.388Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:44:10.542Z [NODE_PROJECT] error: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'product_category_id' at row 1
+2024-03-06T07:47:46.124Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:48:08.099Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'category_name' in 'where clause'
+2024-03-06T07:54:11.222Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:54:29.046Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'category_name' in 'where clause'
+2024-03-06T07:55:32.664Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:55:45.691Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'category_name' in 'where clause'
+2024-03-06T07:56:20.985Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:57:38.697Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T07:59:18.948Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:22:07.327Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:23:10.163Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:23:15.440Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:24:29.375Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:24:35.031Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:25:51.726Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:26:35.942Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:32:31.927Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:32:47.546Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:35:10.111Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:37:55.550Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:41:22.601Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T08:41:35.602Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:43:52.917Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-06T09:02:14.247Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.

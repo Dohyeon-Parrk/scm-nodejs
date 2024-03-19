@@ -1,0 +1,73 @@
+2024-03-14T02:49:55.109Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T05:38:00.242Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'customer_name' in 'where clause'
+2024-03-14T05:44:46.908Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T05:49:38.226Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T05:55:10.073Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'customer_name' in 'field list'
+2024-03-14T05:56:54.537Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T05:57:10.726Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T05:59:41.347Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:00:40.859Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:04:07.477Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:04:34.584Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'email' in 'field list'
+2024-03-14T06:05:53.510Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:06:39.094Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:08:20.627Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:08:26.863Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:08:32.857Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:20:40.874Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:20:56.376Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:22:40.916Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:23:41.371Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:27:49.596Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:33:27.593Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:33:41.370Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:38:18.262Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:38:24.335Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:39:49.626Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:39:57.455Z [NODE_PROJECT] error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2024-03-14T06:41:18.855Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:41:24.862Z [NODE_PROJECT] error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2024-03-14T06:41:55.992Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:42:02.520Z [NODE_PROJECT] error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2024-03-14T06:42:19.227Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:42:25.243Z [NODE_PROJECT] error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2024-03-14T06:42:52.508Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:43:02.376Z [NODE_PROJECT] error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2024-03-14T06:43:27.367Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:43:32.034Z [NODE_PROJECT] error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2024-03-14T06:43:49.120Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:43:53.777Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'employee_id' at row 1
+2024-03-14T06:48:44.970Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:48:58.309Z [NODE_PROJECT] error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`nodevuejs`.`customer`, CONSTRAINT `fk_employee_id` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`employee_id`))
+2024-03-14T06:50:43.568Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:51:11.643Z [NODE_PROJECT] error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`nodevuejs`.`customer`, CONSTRAINT `fk_employee_id` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`employee_id`))
+2024-03-14T06:53:51.387Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T06:53:57.924Z [NODE_PROJECT] error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`nodevuejs`.`customer`, CONSTRAINT `fk_employee_id` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`employee_id`))
+2024-03-14T06:56:02.225Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T07:34:30.307Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-14T07:34:54.828Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T07:34:57.252Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-14T07:36:58.998Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:10:50.040Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:14:04.882Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:15:28.317Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:17:28.314Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:42:52.055Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:45:28.604Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:50:55.911Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T08:51:39.108Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:04:34.230Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:06:03.644Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'ti.customer_id' in 'where clause'
+2024-03-14T09:06:26.450Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:07:06.674Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:10:58.962Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:13:18.097Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:29:03.261Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:32:07.015Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:37:33.845Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T09:45:47.677Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T13:18:17.835Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T13:20:25.126Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-14T13:21:42.533Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T13:24:07.203Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-14T13:36:55.158Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.

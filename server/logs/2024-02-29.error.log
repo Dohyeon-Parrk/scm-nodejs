@@ -1,0 +1,1 @@
+2024-02-29T07:12:58.606Z [NODE_PROJECT] error: ER_ACCESS_DENIED_ERROR: Access denied for user 'dev'@'localhost' (using password: YES)

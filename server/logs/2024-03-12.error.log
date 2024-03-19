@@ -1,0 +1,26 @@
+2024-03-12T07:23:42.645Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-12T08:23:00.813Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:23:31.874Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:28:33.911Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:31:21.615Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:32:38.969Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:34:00.062Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:36:25.925Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:37:08.835Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 3
+2024-03-12T08:39:14.273Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:40:28.097Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:43:47.912Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T08:49:56.826Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 8
+2024-03-12T09:05:33.594Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 8
+2024-03-12T09:20:37.671Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-12T09:21:56.737Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-12T09:34:43.435Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-12T09:36:32.371Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-12T09:39:46.601Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-12T09:41:12.648Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-12T09:42:04.379Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-12T09:42:50.647Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-12T09:50:41.881Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-12T09:54:51.619Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-12T10:02:56.004Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-12T10:07:40.765Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value

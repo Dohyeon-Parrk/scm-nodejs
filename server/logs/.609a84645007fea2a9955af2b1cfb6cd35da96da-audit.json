@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\MyProject\\NODEJS-VUEJS\\server\\logs\\.609a84645007fea2a9955af2b1cfb6cd35da96da-audit.json",
+    "files": [
+        {
+            "date": 1710806950667,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\server\\logs\\2024-03-19.error.log",
+            "hash": "f5ebd7fdf0b8878ce7e02a31ca3429394b857f066fa47f1753d6becfba759b73"
+        }
+    ],
+    "hashType": "sha256"
+}

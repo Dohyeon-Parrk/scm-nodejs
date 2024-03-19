@@ -1,0 +1,16 @@
+2024-03-05T01:30:00.241Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T01:36:00.385Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T01:36:22.325Z [NODE_PROJECT] error: ER_BAD_DB_ERROR: Unknown database 'dev'
+2024-03-05T01:44:13.369Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T01:44:55.937Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T02:35:24.459Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T02:35:48.234Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2024-03-05T02:38:22.903Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T02:42:11.267Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T02:47:10.444Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T02:48:29.940Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T04:37:21.662Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T04:53:25.443Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T05:03:28.064Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T05:28:45.768Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-05T05:34:46.869Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.

@@ -1,0 +1,3 @@
+2024-03-07T04:24:06.993Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'product_supplier_id' in 'where clause'
+2024-03-07T04:24:20.901Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'product_supplier_id' in 'where clause'
+2024-03-07T04:24:52.168Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'product_supplier_id' in 'where clause'

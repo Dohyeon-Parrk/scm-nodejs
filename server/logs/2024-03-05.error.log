@@ -1,0 +1,2 @@
+2024-03-05T01:36:22.325Z [NODE_PROJECT] error: ER_BAD_DB_ERROR: Unknown database 'dev'
+2024-03-05T02:35:48.234Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1

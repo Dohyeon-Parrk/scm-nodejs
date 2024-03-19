@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\MyProject\\BOOTCAMP\\project\\server\\logs\\.bc8057a787edbe4836aede11bddba0e33ba66118-audit.json",
+    "files": [
+        {
+            "date": 1709189981690,
+            "name": "C:\\MyProject\\BOOTCAMP\\project\\server\\logs\\2024-02-29.error.log",
+            "hash": "af7553637311eeace9ee707a5579f24257e18be2d9a9f90e152b2845e0a0b72f"
+        }
+    ],
+    "hashType": "sha256"
+}

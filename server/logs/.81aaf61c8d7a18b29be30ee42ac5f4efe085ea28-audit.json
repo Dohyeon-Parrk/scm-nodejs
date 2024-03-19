@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\.81aaf61c8d7a18b29be30ee42ac5f4efe085ea28-audit.json",
+    "files": [
+        {
+            "date": 1709602091259,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-05.error.log",
+            "hash": "0baf7d2d7da9605fbcac512817922f15696d4ebc8f75e9f626af628c46141298"
+        },
+        {
+            "date": 1709707451783,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-06.error.log",
+            "hash": "bdc375892b17e64c870f90106287e9f40902ee58ea2194be1266401e4b477b10"
+        },
+        {
+            "date": 1709783224649,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-07.error.log",
+            "hash": "5d5ae05f7cce44ae0781027746eaf390ca1901f6ce2c661da9dbc1a11e7f20e6"
+        },
+        {
+            "date": 1710134778845,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-11.error.log",
+            "hash": "b87a14b8bf483c9d48032d296d9fd48add2ffbfad364a5b7a22656b3bcae0846"
+        },
+        {
+            "date": 1710215658871,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-12.error.log",
+            "hash": "0432f7761de3839a57d3fa73b106a8442cfe8c3e8ecf99785282f2a386705df9"
+        },
+        {
+            "date": 1710303841329,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-13.error.log",
+            "hash": "ce3e37f0d19939ff5becfa449f4085aa4a544515ddf155cffcff253a500fcfd8"
+        },
+        {
+            "date": 1710384592918,
+            "name": "C:\\MyProject\\NODEJS-VUEJS\\project\\server\\logs\\2024-03-14.error.log",
+            "hash": "1b79ab8446dee39128a7572f8eba9d72211b96c96cf11d9533890a808beb7f9b"
+        }
+    ],
+    "hashType": "sha256"
+}

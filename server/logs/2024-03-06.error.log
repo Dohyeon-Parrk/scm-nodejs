@@ -1,0 +1,11 @@
+2024-03-06T07:44:10.542Z [NODE_PROJECT] error: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'product_category_id' at row 1
+2024-03-06T07:48:08.099Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'category_name' in 'where clause'
+2024-03-06T07:54:29.046Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'category_name' in 'where clause'
+2024-03-06T07:55:45.691Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'category_name' in 'where clause'
+2024-03-06T08:22:07.327Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:23:15.440Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:24:35.031Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:26:35.942Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:32:47.546Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:37:55.550Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-06T08:41:35.602Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1

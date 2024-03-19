@@ -1,0 +1,33 @@
+2024-03-13T04:24:03.040Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T04:25:28.835Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-13T04:26:18.787Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T04:26:55.052Z [NODE_PROJECT] error: ER_NO_DEFAULT_FOR_FIELD: Field 'status' doesn't have a default value
+2024-03-13T04:30:15.862Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T04:40:37.105Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 3
+2024-03-13T04:40:49.743Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T04:50:23.874Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2,6)' at line 3
+2024-03-13T04:53:58.617Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T04:54:30.773Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'product_id in (2,2,2,4,,2,6)' at line 3
+2024-03-13T04:54:40.640Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T06:16:30.097Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T07:32:23.081Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T07:36:27.829Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T07:42:20.448Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T07:47:45.484Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T07:49:26.975Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:16:45.214Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:19:13.777Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:20:21.955Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:24:31.317Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:26:36.263Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:27:02.755Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:27:10.638Z [NODE_PROJECT] error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined' at line 1
+2024-03-13T08:27:17.575Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:29:02.447Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:29:12.866Z [NODE_PROJECT] error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '2024-03-13T08:24:56.000Z' for column 'created_datetime' at row 1
+2024-03-13T08:29:37.843Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:38:31.787Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T08:40:28.456Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T09:20:11.699Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T09:43:38.748Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-13T09:46:54.685Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.

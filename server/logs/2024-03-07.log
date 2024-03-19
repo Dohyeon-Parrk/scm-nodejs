@@ -1,0 +1,11 @@
+2024-03-07T03:47:06.433Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T03:53:01.101Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T04:17:55.444Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T04:22:35.652Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T04:23:27.414Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T04:24:06.993Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'product_supplier_id' in 'where clause'
+2024-03-07T04:24:18.661Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T04:24:20.901Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'product_supplier_id' in 'where clause'
+2024-03-07T04:24:48.191Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
+2024-03-07T04:24:52.168Z [NODE_PROJECT] error: ER_BAD_FIELD_ERROR: Unknown column 'product_supplier_id' in 'where clause'
+2024-03-07T04:29:50.286Z [NODE_PROJECT] info: 서버가 포트 3000번으로 시작 되었습니다.
