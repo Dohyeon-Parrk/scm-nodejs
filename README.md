@@ -1,3 +1,10 @@
+Nodejs -- server 작성
+
+Vuejs -- client 작성
+
+
+
+
 
 *local 실행 환경
 
