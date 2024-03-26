@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SCM(Supply Chain Management)&fontSize=90">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> -- server 구현 </br>
 
