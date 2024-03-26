@@ -17,4 +17,5 @@ Vuejs -- client 작성
     2.npm run serve
 
 
-    #4FC08D
+    #4FC08D <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
