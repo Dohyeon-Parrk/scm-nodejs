@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> -- database
 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90">
 
 *local 실행 환경
 
