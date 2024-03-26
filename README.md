@@ -1,9 +1,8 @@
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+-- server 구현
+
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-Nodejs -- server 작성
-
-Vuejs -- client 작성
+-- client 구현
 
 
 
