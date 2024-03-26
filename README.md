@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shopping%SCM&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Shopping%20SCM&fontSize=90" />
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> -- server 구현 </br>
 
