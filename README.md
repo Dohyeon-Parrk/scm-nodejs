@@ -14,6 +14,14 @@
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -- database
 
-```database
+### mysql .env.test 설정
+```
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_USERNAME=root
+MYSQL_PASSWORD=1234
+MYSQL_DB=nodevuejs
+MYSQL_LIMIT=10
+```
 
 -3.27 로그인 화면 및 일부 ui 수정 추가 중
