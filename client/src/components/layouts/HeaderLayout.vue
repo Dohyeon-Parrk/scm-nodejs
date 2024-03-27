@@ -7,7 +7,7 @@
   </nav> -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" @click="goToMenu('/')">EliExpressSCM</a>
+      <a class="navbar-brand" @click="goToMenu('/')">CommerceShopping SCM</a>
       <button
         class="navbar-toggler"
         type="button"
