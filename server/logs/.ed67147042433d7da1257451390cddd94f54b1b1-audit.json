@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\MyProject\\scm-nodejs\\server\\logs\\.ed67147042433d7da1257451390cddd94f54b1b1-audit.json",
+    "files": [
+        {
+            "date": 1710925802202,
+            "name": "C:\\MyProject\\scm-nodejs\\server\\logs\\2024-03-20.error.log",
+            "hash": "b69f507d94d02690c252b5fc80fe9047c4c51297f86836ef589954453de74985"
+        }
+    ],
+    "hashType": "sha256"
+}
