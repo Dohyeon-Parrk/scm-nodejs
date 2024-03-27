@@ -14,7 +14,7 @@
 ### client 구현
 ```
   1. cd client
-  2. npm run serve </br>
+  2. npm run serve
 ```
 <br>
 
@@ -30,6 +30,11 @@ MYSQL_USERNAME=root
 MYSQL_PASSWORD=1234
 MYSQL_DB=nodevuejs
 MYSQL_LIMIT=10
+```
+
+### table 생성
+```
+server 폴더 디렉토리 내 product.sql 참고
 ```
 
 -3.27 로그인 화면 및 일부 ui 수정 추가 중
