@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> </br>
 
-### server 구현 
+### server
 ```
   1. cd server
   2. npm run test
@@ -11,7 +11,7 @@
 
 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />  </br>
-### client 구현
+### client
 ```
   1. cd client
   2. npm run serve
